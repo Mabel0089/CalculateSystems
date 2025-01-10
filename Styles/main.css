@@ -1,0 +1,11 @@
+body{
+    background-image: url('./Images/mjy12.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+#navbar{
+    width: 100%;
+    position: absolute;
+    top: 0;
+}
